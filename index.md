@@ -21,7 +21,7 @@ permalink:  /
 
 # News
 
-- [May 2019] Our paper [HomeNet: Layout Generation of Indoor Scenes from Panoramic Images Using Pyramid Pooling][HomeNet] gets accepted at the 3D Scene Generation Workshop, CVPR, 2019!
+- [May 2019] Our paper [HomeNet: Layout Generation of Indoor Scenes from Panoramic Images Using Pyramid Pooling][HomeNet] got accepted at the 3D Scene Generation Workshop, CVPR, 2019!
 - [Feb 2019] Awarded with a scholarship of $6000 by the University of Auckland, New Zealand.
 - [Nov 2018] Selected for the Summer Research Program by the University of Auckland, New Zealand  .
 - [July 2018] Selected to attend Deep Learning Indaba.
@@ -550,7 +550,7 @@ My CV is available [here][33].
 [30]: http://www.theverge.com/2016/7/12/12158238/first-click-deep-learning-algorithmic-black-boxes
 [31]: http://iitr.ac.in/
 [32]: https://www.facebook.com/dhruv.batra.1253/posts/1783087161932290
-[33]: https://drive.google.com/file/d/1nObeNzl-sTy8I5QN1Jv8wscebKLv-6RY/view?usp=sharing
+[33]: https://drive.google.com/file/d/1m3N0MF_yqqx8wpSQ-sXRV2UVJCYjDdlj/view?usp=sharing
 [34]: http://aideadlin.es/
 [35]: //github.com/abhshkdz/neural-vqa-attention
 [36]: https://snapresearchfellowship.splashthat.com/
