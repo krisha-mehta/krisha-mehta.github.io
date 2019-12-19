@@ -53,7 +53,7 @@ Apart from that, I write a blog called Computers, Papers and Everything where I 
 My CV is available [here][33].
 
 <div class="row" id="timeline-logos">
-<div class="col-xs-3">
+<div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a href="//iitr.ac.in"><img src="/img/logos/asu.png"></a>
@@ -63,7 +63,7 @@ My CV is available [here][33].
             2019 - Exp 2021
         </div>
     </div>
-    <div class="col-xs-3">
+    <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a href="//iitr.ac.in"><img src="/img/logos/djsce.png"></a>
@@ -73,7 +73,7 @@ My CV is available [here][33].
             2015 - 2019
         </div>
     </div>
-    <div class="col-xs-3">
+    <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a href="//qbi.uq.edu.au"><img style="width:120px,height:120px;" src="/img/logos/iim.png"></a>
@@ -93,7 +93,7 @@ My CV is available [here][33].
             2015 - 2016
         </div>
     </div> -->
-    <div class="col-xs-3">
+    <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a target="_blank" href="//gatech.edu"><img style="height: 160px,width:160px;" src="/img/logos/iiit.png"></a>
@@ -103,7 +103,7 @@ My CV is available [here][33].
             Summer 2018
         </div>
     </div>
-    <div class="col-xs-3">
+    <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a target="_blank" href="//research.fb.com/category/facebook-ai-research/"><img style="width:160px,height:160px;" src="/img/logos/uoa.png"></a>
