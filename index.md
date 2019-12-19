@@ -66,7 +66,7 @@ My CV is available [here][33].
     <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//iitr.ac.in"><img src="/img/logos/djsce.png"></a>
+            <a href="http://www.djsce.ac.in/"><img src="/img/logos/djsce.png"></a>
         </div>
         <div class="logo-desc">
             D.J Sanghvi College of Engineering<br>
@@ -76,7 +76,7 @@ My CV is available [here][33].
     <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a target="_blank" href="//research.fb.com/category/facebook-ai-research/"><img style="width:160px,height:160px;" src="/img/logos/uoa.png"></a>
+            <a href="https://www.auckland.ac.nz/en.html"><img style="width:160px,height:160px;" src="/img/logos/uoa.png"></a>
         </div>
         <div class="logo-desc">
             The University of Auckland<br>
@@ -86,7 +86,7 @@ My CV is available [here][33].
     <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//qbi.uq.edu.au"><img style="width:120px,height:120px;" src="/img/logos/iim.png"></a>
+            <a href="https://www.iima.ac.in/web/iima"><img style="width:120px,height:120px;" src="/img/logos/iim.png"></a>
         </div>
         <div class="logo-desc">
             Indian Institute of Management, Ahmedabad<br>
@@ -106,7 +106,7 @@ My CV is available [here][33].
    <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a target="_blank" href="//gatech.edu"><img style="height: 160px,width:160px;" src="/img/logos/iiit.png"></a>
+            <a href="https://www.iiit.ac.in/"><img style="height: 160px,width:160px;" src="/img/logos/iiit.png"></a>
         </div>
         <div class="logo-desc">
             Summer School at IIIT-H<br>
