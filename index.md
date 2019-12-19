@@ -56,7 +56,7 @@ My CV is available [here][33].
 <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
-            <a href="//iitr.ac.in"><img src="/img/logos/asu.png"></a>
+            <a href="https://www.asu.edu/"><img src="/img/logos/asu.png"></a>
         </div>
         <div class="logo-desc">
             Arizona State University<br>
