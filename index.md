@@ -103,7 +103,7 @@ My CV is available [here][33].
             2015 - 2016
         </div>
     </div> -->
-   <!-- <div class="col-xs-2">
+   <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a target="_blank" href="//gatech.edu"><img style="height: 160px,width:160px;" src="/img/logos/iiit.png"></a>
