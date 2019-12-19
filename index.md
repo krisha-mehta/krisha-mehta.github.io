@@ -10,8 +10,8 @@ permalink:  /
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         Computer Science Student<br>
-        Dwarkadas J. Sanghvi College of Engineering <br>
-        krisha dot mehta at djsce dot edu dot in
+        Arizona State University <br>
+        kmehta15 at asu dot edu
         <br><br>
     </div>
 </div>
@@ -20,7 +20,10 @@ permalink:  /
 <a name="/news"></a>
 
 # News
-
+- [Dec 2019] Started working at the Center for Digital Antiquity as a research assistant. 
+- [Aug 2019] Joined the Active Perception Group at ASU as a research volunteer.
+- [Aug 2019] Joined the MS in CS program at Arizona State University.
+- [June 2019] Selected to join the technical student program at The European Organization for Nuclear Research(CERN)(declined)
 - [May 2019] Our paper [HomeNet: Layout Generation of Indoor Scenes from Panoramic Images Using Pyramid Pooling][HomeNet] got accepted at the 3D Scene Generation Workshop, CVPR, 2019!
 - [Feb 2019] Awarded with a scholarship of $6000 by the University of Auckland, New Zealand.
 - [Nov 2018] Selected for the Summer Research Program by the University of Auckland, New Zealand  .
@@ -41,7 +44,7 @@ permalink:  /
 
 # Bio
 
-I am a senior computer science undergrad at Dwarkadas J. Sanghvi College of Engineering.
+I am a first-year computer science graduate student at Arizona State University. 
 I am mainly interested in deep learning and its applications in computer vision.
 More recently, I am working on 3D scene generation of indoor scenarios.
 
