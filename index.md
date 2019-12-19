@@ -53,6 +53,16 @@ Apart from that, I write a blog called Computers, Papers and Everything where I 
 My CV is available [here][33].
 
 <div class="row" id="timeline-logos">
+<div class="col-xs-3">
+        <div class="logo-wrap">
+            <span class="helper"></span>
+            <a href="//iitr.ac.in"><img src="/img/logos/asu.png"></a>
+        </div>
+        <div class="logo-desc">
+            Arizona State University<br>
+            2019 - Exp 2021
+        </div>
+    </div>
     <div class="col-xs-3">
         <div class="logo-wrap">
             <span class="helper"></span>
@@ -553,7 +563,7 @@ My CV is available [here][33].
 [30]: http://www.theverge.com/2016/7/12/12158238/first-click-deep-learning-algorithmic-black-boxes
 [31]: http://iitr.ac.in/
 [32]: https://www.facebook.com/dhruv.batra.1253/posts/1783087161932290
-[33]: https://drive.google.com/file/d/1m3N0MF_yqqx8wpSQ-sXRV2UVJCYjDdlj/view?usp=sharing
+[33]: https://drive.google.com/file/d/1n2lqmD80GiSHZOyORRe6314eX_Ax3uT3/view?usp=sharing
 [34]: http://aideadlin.es/
 [35]: //github.com/abhshkdz/neural-vqa-attention
 [36]: https://snapresearchfellowship.splashthat.com/
