@@ -20,6 +20,11 @@ permalink:  /
 <a name="/news"></a>
 
 # News
+- [Sept 2020] Received a Scholarship and Selected for the ACM Student Research Competition, Tapia Conference
+- [Aug 2020] Selected for CIFAR Deep Learning Reinforcement Learning Summer School.
+- [May 2020] Interning as a technical writer intern at Amazon this summer.
+- [Feb 2020] Our paper [IndoorNet: Generating Indoor Layouts from a Single Panorama Image][IndoorNet] got published in Advanced Computing Technologies and Applications. Algorithms for Intelligent Systems. Springer, Singapore, 2020
+- [Jan 2020] Finalist in the Collegiate Competition , WE Local San Diego. 
 - [Dec 2019] Started working at the Center for Digital Antiquity as a research assistant. 
 - [Aug 2019] Joined the Active Perception Group at ASU as a research volunteer.
 - [Aug 2019] Joined the MS in CS program at Arizona State University.
@@ -595,6 +600,7 @@ My CV is available [here][33].
 [visdial-challenge-2]: https://visualdialog.org/challenge/2019
 [ic-gt-article]: https://www.ic.gatech.edu/news/617061/see-and-say-abhishek-das-working-provide-crucial-communication-tools-intelligent-agents
 [HomeNet]: https://drive.google.com/file/d/1KYcuWqcSxQ_PeK5FOnjS40cKc9wALjak/view
+[IndoorNet]: https://link.springer.com/chapter/10.1007/978-981-15-3242-9_6
 
 
 
