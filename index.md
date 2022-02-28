@@ -9,8 +9,8 @@ permalink:  /
         <img src="/img/cover2.jpg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
-        Computer Science Student<br>
-        Arizona State University <br>
+        Programmer Writer<br>
+        Amazon SageMaker<br>
         kmehta15 at asu dot edu
         <br><br>
     </div>
@@ -20,9 +20,14 @@ permalink:  /
 <a name="/news"></a>
 
 # News
+- [Dec 2021] Worked on Ground Truth Plus, laucnhed at re:Invent 2021.
+- [June 2021] Started working full-time at Amazon SageMaker as a programmer writer. 
+- [May 2021] Graduated from Arizona State University with a Masters in Computer Science
+- [Oct 2020] Appointed as the Director of Graduate Research at SWE ASU. 
 - [Sept 2020] Received a Scholarship and Selected for the ACM Student Research Competition, Tapia Conference
+- [Aug 2020] Interned at Weights & Biases as a machine learning engineer.
 - [Aug 2020] Selected for CIFAR Deep Learning Reinforcement Learning Summer School.
-- [May 2020] Interning as a technical writer intern at Amazon this summer.
+- [May 2020] Interned as a technical writer intern at Amazon this summer.
 - [Feb 2020] Our paper [IndoorNet: Generating Indoor Layouts from a Single Panorama Image][IndoorNet] got published in Advanced Computing Technologies and Applications. Algorithms for Intelligent Systems. Springer, Singapore, 2020
 - [Jan 2020] Finalist in the Collegiate Competition , WE Local San Diego. 
 - [Dec 2019] Started working at the Center for Digital Antiquity as a research assistant. 
@@ -34,10 +39,6 @@ permalink:  /
 - [Nov 2018] Selected for the Summer Research Program by the University of Auckland, New Zealand  .
 - [July 2018] Selected to attend Deep Learning Indaba.
 - [July 2018] Attended the summer school on computer vision and machine learning at the International Institute of Information Technology, Hyderabad.
-- [May 2018] Selected for the ERPNext Summer of Code.
-- [Feb 2018] Awarded 3rd position at CodeShahstra 4.0, an intercollegiate hackathon.
-- [Dec 2017] Awarded with an internship at the Indian Institute of Management, Ahmedabad.
-- [Nov 2017] Awarded 2nd place at Hack Infinity 2017,a national level hackathon organised by DA-IICT, Gujarat. Offer for incubation by Indian Space Research Organisation.
 
 <div id="read-more-button">
     <a nohref>Read more</a>
@@ -49,7 +50,7 @@ permalink:  /
 
 # Bio
 
-I am a first-year computer science graduate student at Arizona State University. 
+I am a programmer writer for Amazon SageMaker. I work on Human-in-the-Loop services which include SageMaker Ground Truth, SageMaker Ground Truth Plus and Amazon Augmented AI. 
 I am mainly interested in deep learning and its applications in computer vision.
 More recently, I am working on 3D scene generation of indoor scenarios.
 
