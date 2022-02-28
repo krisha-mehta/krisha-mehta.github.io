@@ -20,7 +20,7 @@ permalink:  /
 <a name="/news"></a>
 
 # News
-- [Dec 2021] Worked on Ground Truth Plus, laucnhed at re:Invent 2021.
+- [Dec 2021] Worked on Ground Truth Plus, launched at re:Invent 2021.
 - [June 2021] Started working full-time at Amazon SageMaker as a programmer writer. 
 - [May 2021] Graduated from Arizona State University with a Masters in Computer Science
 - [Oct 2020] Appointed as the Director of Graduate Research at SWE ASU. 
