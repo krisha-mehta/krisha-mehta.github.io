@@ -4,7 +4,7 @@ title:      About
 permalink:  /about/
 ---
 
-Redirecting to [https://krishamehta.github.io/](//krishamehta.github.io).
+Redirecting to [https://krisha-mehta.github.io/](//krisha-mehta.github.io).
 
 <script type="text/javascript">
     location.href='/';
