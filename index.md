@@ -17,16 +17,29 @@ permalink:  /
 </div>
 <hr>
 
+<a name="/bio"></a>
+
+# Bio
+
+Welcome!
+
+I am Krisha Mehta, a first year PhD student at the Computer Science department at the University of Chicago. I am advised by Prof. Alex Kale at the Data Cognition Lab. I am interested in studying how visualizations can help people reason about uncertainty and drive their decision-making. 
+
+Apart from that, I love to buy and read books (yes, those are two separate hobbies) and can cook a mean daal makhani. Occasionally, I summarize research papers on a blog called Computers, Papers and Everything. 
+
+My CV is available [here][33].
+
+
 <a name="/news"></a>
 
 # News
+- [Sept 2023] Awarded the Liew Family Graduate Fellowship.
 - [Sept 2023] Joined the PhD in CS program at the University of Chicago!
 - [Oct 2022] Got promoted to Programmer writer II.
 - [June 2022] Worked on Ground Truth Plus and Ground Truth Synthetic.
 - [June 2021] Started working full-time at Amazon SageMaker as a programmer writer. 
 - [May 2021] Graduated from Arizona State University with a Masters in Computer Science
 - [Aug 2020] Interned at Weights & Biases as a machine learning engineer.
-- [Aug 2020] Selected for CIFAR Deep Learning Reinforcement Learning Summer School.
 - [May 2020] Interned as a technical writer intern at Amazon this summer.
 - [Feb 2020] Our paper [IndoorNet: Generating Indoor Layouts from a Single Panorama Image][IndoorNet] got published in Advanced Computing Technologies and Applications. Algorithms for Intelligent Systems. Springer, Singapore, 2020
 - [Aug 2019] Joined the MS in CS program at Arizona State University.
@@ -34,25 +47,14 @@ permalink:  /
 - [May 2019] Our paper [HomeNet: Layout Generation of Indoor Scenes from Panoramic Images Using Pyramid Pooling][HomeNet] got accepted at the 3D Scene Generation Workshop, CVPR, 2019!
 - [Nov 2018] Selected for the Summer Research Program by the University of Auckland, New Zealand.
 
-<div id="read-more-button">
+<!--<div id="read-more-button">
     <a nohref>Read more</a>
-</div>
+</div> -->
 
 <hr>
 
-<a name="/bio"></a>
 
-# Bio
-
-I am a programmer writer for Amazon SageMaker. I work on Human-in-the-Loop services which include SageMaker Ground Truth, SageMaker Ground Truth Plus and Amazon Augmented AI. 
-I am mainly interested in deep learning and its applications in computer vision.
-More recently, I am working on 3D scene generation of indoor scenarios.
-
-Apart from that, I write a blog called Computers, Papers and Everything where I review research papers and other things.
-
-My CV is available [here][33].
-
-<div class="row" id="timeline-logos">
+<!--<div class="row" id="timeline-logos">
 <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
@@ -60,7 +62,7 @@ My CV is available [here][33].
         </div>
         <div class="logo-desc">
             Arizona State University<br>
-            2019 - Exp 2021
+            2019 -  2021
         </div>
     </div>
     <div class="col-xs-2">
@@ -92,7 +94,7 @@ My CV is available [here][33].
             Indian Institute of Management, Ahmedabad<br>
             Winter 2017
         </div>
-    </div>
+    </div> -->
     <!-- <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
