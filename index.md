@@ -9,9 +9,9 @@ permalink:  /
         <img src="/img/cover2.jpg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
-        Programmer Writer<br>
-        Amazon SageMaker<br>
-        kmehta15 at asu dot edu
+        PhD Student<br>
+        University of Chicago<br>
+        krisha at uchicago dot edu
         <br><br>
     </div>
 </div>
