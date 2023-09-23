@@ -20,25 +20,19 @@ permalink:  /
 <a name="/news"></a>
 
 # News
-- [Dec 2021] Worked on Ground Truth Plus, launched at re:Invent 2021.
+- [Sept 2023] Joined the PhD in CS program at the University of Chicago!
+- [Oct 2022] Got promoted to Programmer writer II.
+- [June 2022] Worked on Ground Truth Plus and Ground Truth Synthetic.
 - [June 2021] Started working full-time at Amazon SageMaker as a programmer writer. 
 - [May 2021] Graduated from Arizona State University with a Masters in Computer Science
-- [Oct 2020] Appointed as the Director of Graduate Research at SWE ASU. 
-- [Sept 2020] Received a Scholarship and Selected for the ACM Student Research Competition, Tapia Conference
 - [Aug 2020] Interned at Weights & Biases as a machine learning engineer.
 - [Aug 2020] Selected for CIFAR Deep Learning Reinforcement Learning Summer School.
 - [May 2020] Interned as a technical writer intern at Amazon this summer.
 - [Feb 2020] Our paper [IndoorNet: Generating Indoor Layouts from a Single Panorama Image][IndoorNet] got published in Advanced Computing Technologies and Applications. Algorithms for Intelligent Systems. Springer, Singapore, 2020
-- [Jan 2020] Finalist in the Collegiate Competition , WE Local San Diego. 
-- [Dec 2019] Started working at the Center for Digital Antiquity as a research assistant. 
-- [Aug 2019] Joined the Active Perception Group at ASU as a research volunteer.
 - [Aug 2019] Joined the MS in CS program at Arizona State University.
 - [June 2019] Selected to join the technical student program at The European Organization for Nuclear Research(CERN)(declined)
 - [May 2019] Our paper [HomeNet: Layout Generation of Indoor Scenes from Panoramic Images Using Pyramid Pooling][HomeNet] got accepted at the 3D Scene Generation Workshop, CVPR, 2019!
-- [Feb 2019] Awarded with a scholarship of $6000 by the University of Auckland, New Zealand.
-- [Nov 2018] Selected for the Summer Research Program by the University of Auckland, New Zealand  .
-- [July 2018] Selected to attend Deep Learning Indaba.
-- [July 2018] Attended the summer school on computer vision and machine learning at the International Institute of Information Technology, Hyderabad.
+- [Nov 2018] Selected for the Summer Research Program by the University of Auckland, New Zealand.
 
 <div id="read-more-button">
     <a nohref>Read more</a>
