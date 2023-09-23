@@ -1,0 +1,9 @@
+encoding: utf-8
+name: Krisha Mehta
+url: https://krisha-mehta.github.io/
+author:
+  name: Krisha Mehta
+  email: krisha1204@gmail.com
+description: Computer science student who likes to learn and read.
+permalink: /posts/:title/
+include: ['_pages']
