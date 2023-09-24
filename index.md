@@ -94,8 +94,8 @@ My CV is available [here][33].
             Indian Institute of Management, Ahmedabad<br>
             Winter 2017
         </div>
-    </div> -->
-    <!-- <div class="col-xs-2">
+    </div> 
+    <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a href="//vt.edu"><img src="/img/logos/vt.png"></a>
@@ -104,7 +104,7 @@ My CV is available [here][33].
             Virginia Tech<br>
             2015 - 2016
         </div>
-    </div> -->
+    </div> 
    <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
@@ -116,7 +116,7 @@ My CV is available [here][33].
         </div>
     </div> 
     
-  <!-- <div class="col-xs-2">
+  <div class="col-xs-2">
         <div class="logo-wrap">
             <span class="helper"></span>
             <a target="_blank" href="//deepmind.com"><img style="width:120px;" src="/img/logos/deepmind.png"></a>
@@ -125,11 +125,8 @@ My CV is available [here][33].
             DeepMind<br>
             W2019
         </div>
-    </div> -->
-</div>
-
-
----
+    </div> 
+</div>-->
 
 <a name="/publications"></a>
 
