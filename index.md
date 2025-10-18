@@ -6,7 +6,7 @@ permalink:  /
 
 <div class="row">
     <div class="col-sm-6 col-xs-12">
-        <img src="/img/cover2.jpg">
+        <img src="/img/profile.jpeg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         PhD Student<br>
@@ -23,7 +23,7 @@ permalink:  /
 
 Welcome!
 
-I am Krisha Mehta, a first year PhD student at the Computer Science department at the University of Chicago. I am advised by Prof. Alex Kale at the Data Cognition Lab. I am interested in studying how visualizations can help people reason about uncertainty and drive their decision-making. 
+I am Krisha Mehta, a PhD student at the Computer Science department at the University of Chicago. I am advised by Prof. [Alex Kale][https://people.cs.uchicago.edu/~kalea/] at the Data Cognition Lab. I am interested in studying how visualizations can help people reason about uncertainty and drive their decision-making. 
 
 Apart from that, I love to buy and read books (yes, those are two separate hobbies) and can cook a mean daal makhani. Occasionally, I summarize research papers on a blog called Computers, Papers and Everything. 
 
@@ -33,6 +33,9 @@ My CV is available [here][33].
 <a name="/news"></a>
 
 # News
+- [Oct 2025] TAing DATA 23700: Visualization for Data Science this fall.
+- [Aug 2025] Our paper "[Designing for Disclosure in Data Visualizations][https://arxiv.org/abs/2508.08383]" got accepted at IEEE VIS!
+- [July 2025] Presnted a Poster at the Gordon Research Conferences
 - [Sept 2023] Awarded the Liew Family Graduate Fellowship.
 - [Sept 2023] Joined the PhD in CS program at the University of Chicago!
 - [Oct 2022] Got promoted to Programmer writer II.
@@ -41,10 +44,7 @@ My CV is available [here][33].
 - [May 2021] Graduated from Arizona State University with a Masters in Computer Science
 - [Aug 2020] Interned at Weights & Biases as a machine learning engineer.
 - [May 2020] Interned as a technical writer intern at Amazon this summer.
-- [Feb 2020] Our paper [IndoorNet: Generating Indoor Layouts from a Single Panorama Image][IndoorNet] got published in Advanced Computing Technologies and Applications. Algorithms for Intelligent Systems. Springer, Singapore, 2020
 - [Aug 2019] Joined the MS in CS program at Arizona State University.
-- [June 2019] Selected to join the technical student program at The European Organization for Nuclear Research(CERN)(declined)
-- [May 2019] Our paper [HomeNet: Layout Generation of Indoor Scenes from Panoramic Images Using Pyramid Pooling][HomeNet] got accepted at the 3D Scene Generation Workshop, CVPR, 2019!
 - [Nov 2018] Selected for the Summer Research Program by the University of Auckland, New Zealand.
 
 <!--<div id="read-more-button">
@@ -133,15 +133,15 @@ My CV is available [here][33].
 # Publications
 
 <a name="/multi-agent-comm"></a>
-<h2 class="pubt">HomeNet: Layout Generation of Indoor Scenes from Panoramic Images Using Pyramid Pooling</h2>
+<h2 class="pubt">Designing for Disclosure in Data Visualizations</h2>
 <p class="pubd">
-    <span class="authors">Krisha Mehta, Yash Kotadia</span><br>
-    <span class="conf">3D Scene Generation Workshop, CVPR, 2019</span><br>
+    <span class="authors">Krisha Mehta, Gordon Kindlmann, Alex Kale</span><br>
+    <span class="conf">IEEE Transactions on Visualization and Computer Graphics 2025</span><br>
     <span class="links">
-        <a target="_blank" href="https://drive.google.com/file/d/1KYcuWqcSxQ_PeK5FOnjS40cKc9wALjak/view">Paper</a>
+        <a target="_blank" href="https://arxiv.org/abs/2508.08383">Paper</a>
     </span>
 </p>
-<img src="/img/HomeNet/Flowchart.png">
+<img src="/img/disclosure/Comic.png">
 <!--<br><br> -->
 <!--<img src="/img/multi-agent-comm/shapes.gif"> -->
 
