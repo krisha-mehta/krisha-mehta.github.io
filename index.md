@@ -6,7 +6,7 @@ permalink:  /
 
 <div class="row">
     <div class="col-sm-6 col-xs-12">
-        <img src="/img/profile.jpeg">
+        <img src="/img/profile1.jpg">
     </div>
     <div class="col-sm-6 col-xs-12" style="margin-bottom: 0;">
         PhD Student<br>
@@ -23,7 +23,7 @@ permalink:  /
 
 Welcome!
 
-I am Krisha Mehta, a PhD student at the Computer Science department at the University of Chicago. I am advised by Prof. [Alex Kale][https://people.cs.uchicago.edu/~kalea/] at the Data Cognition Lab. I am interested in studying how visualizations can help people reason about uncertainty and drive their decision-making. 
+I am Krisha Mehta, a PhD student at the Computer Science department at the University of Chicago. I am advised by Prof. [Alex Kale][Alex] at the Data Cognition Lab. I am interested in studying how visualizations can help people reason about uncertainty and drive their decision-making. 
 
 Apart from that, I love to buy and read books (yes, those are two separate hobbies) and can cook a mean daal makhani. Occasionally, I summarize research papers on a blog called Computers, Papers and Everything. 
 
@@ -34,7 +34,7 @@ My CV is available [here][33].
 
 # News
 - [Oct 2025] TAing DATA 23700: Visualization for Data Science this fall.
-- [Aug 2025] Our paper "[Designing for Disclosure in Data Visualizations][https://arxiv.org/abs/2508.08383]" got accepted at IEEE VIS!
+- [Aug 2025] Our paper "[Designing for Disclosure in Data Visualizations][Disclosure]" got accepted at IEEE VIS!
 - [July 2025] Presnted a Poster at the Gordon Research Conferences
 - [Sept 2023] Awarded the Liew Family Graduate Fellowship.
 - [Sept 2023] Joined the PhD in CS program at the University of Chicago!
@@ -595,8 +595,8 @@ My CV is available [here][33].
 [ic-gt-article]: https://www.ic.gatech.edu/news/617061/see-and-say-abhishek-das-working-provide-crucial-communication-tools-intelligent-agents
 [HomeNet]: https://drive.google.com/file/d/1KYcuWqcSxQ_PeK5FOnjS40cKc9wALjak/view
 [IndoorNet]: https://link.springer.com/chapter/10.1007/978-981-15-3242-9_6
-
-
+[Disclosure]: https://arxiv.org/abs/2508.08383
+[Alex]: https://people.cs.uchicago.edu/~kalea/
 
 
 
