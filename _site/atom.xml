@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Krisha Mehta</title>
-  <link href="http://localhost:4000/atom.xml" rel="self" />
-  <link href="http://localhost:4000/"/>
-  <updated>2019-06-20T18:30:17+05:30</updated>
-  <id>http://localhost:4000</id>
+  <link href="https://krisha-mehta.github.io//atom.xml" rel="self" />
+  <link href="https://krisha-mehta.github.io//"/>
+  <updated>2026-01-28T11:54:29-06:00</updated>
+  <id>https://krisha-mehta.github.io/</id>
   <author>
     <name>Krisha Mehta</name>
     <email>krisha1204@gmail.com</email>
@@ -12,9 +12,9 @@
   
     <entry>
       <title>Google Summer of Code Reunion Summit</title>
-      <link href="http://localhost:4000/posts/gsoc-reunion-2014/" />
-      <updated>2014-11-03T05:30:00+05:30</updated>
-      <id>http://localhost:4000/posts/gsoc-reunion-2014</id>
+      <link href="https://krisha-mehta.github.io//posts/gsoc-reunion-2014/" />
+      <updated>2014-11-02T18:00:00-06:00</updated>
+      <id>https://krisha-mehta.github.io//posts/gsoc-reunion-2014</id>
       <content type="html">&lt;p&gt;In celebration of the 10th anniversary of Google’s prestigious Summer of Code program, they organized a reunion summit for mentors and students from the past 10 iterations of Summer of Code in San Jose, California from October 23-26. I attended the event as a student and a representative of the &lt;a href=&quot;https://www.owasp.org/index.php/Main_Page&quot;&gt;OWASP foundation&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/gsoc-reunion-summit/hilton.jpg&quot; alt=&quot;Hilton&quot; /&gt;&lt;/p&gt;
@@ -55,9 +55,9 @@
   
     <entry>
       <title>Gradient Descent is Hard</title>
-      <link href="http://localhost:4000/posts/gradient-descent/" />
-      <updated>2014-09-20T05:30:00+05:30</updated>
-      <id>http://localhost:4000/posts/gradient-descent</id>
+      <link href="https://krisha-mehta.github.io//posts/gradient-descent/" />
+      <updated>2014-09-19T19:00:00-05:00</updated>
+      <id>https://krisha-mehta.github.io//posts/gradient-descent</id>
       <content type="html">&lt;p&gt;Remember that time when you told yourself, “I am going to work continuously for six hours and get this thing done!” and it didn’t happen? That time when you went to bed at three in the night with the resolution that you’d get up at seven and work, only to wake up much later?&lt;/p&gt;
 
 &lt;p&gt;Gradient descent is almost how water flows downhill along the direction in which height decreases most rapidly. It’s about aligning your path towards the local minimum by taking steps proportional to the negative of the gradient or derivative.&lt;/p&gt;
@@ -78,9 +78,9 @@
   
     <entry>
       <title>Collegiate Cyber Threat Competition - Wave III</title>
-      <link href="http://localhost:4000/posts/deloitte-cctc-3/" />
-      <updated>2014-05-06T05:30:00+05:30</updated>
-      <id>http://localhost:4000/posts/deloitte-cctc-3</id>
+      <link href="https://krisha-mehta.github.io//posts/deloitte-cctc-3/" />
+      <updated>2014-05-05T19:00:00-05:00</updated>
+      <id>https://krisha-mehta.github.io//posts/deloitte-cctc-3</id>
       <content type="html">&lt;p&gt;Deloitte has been organizing the Collegiate Cyber Threat Competition every year for the past 3 years. SDSLabs has been fortunate enough to &lt;a href=&quot;http://captnemo.in/blog/2011/11/20/cctc-blog/&quot;&gt;be the winning team&lt;/a&gt; &lt;a href=&quot;https://www.facebook.com/photo.php?fbid=10151631176199203&amp;amp;set=t.622604202&amp;amp;type=3&amp;amp;theater&quot;&gt;three years in a row now&lt;/a&gt;. Although they change the format of the competition every year and will continue to do so, their main idea is to get students and industry experts together on the same platform, and discuss and tackle challenges in cyber security. Taking part in the competition is in itself an immense learning experience. This post summarizes my experience at this year’s CCTC.&lt;/p&gt;
 
 &lt;h2 id=&quot;round-0&quot;&gt;Round 0&lt;/h2&gt;
@@ -112,9 +112,9 @@
   
     <entry>
       <title>Workflow Automation with Grunt</title>
-      <link href="http://localhost:4000/posts/automating-with-grunt/" />
-      <updated>2013-11-13T05:30:00+05:30</updated>
-      <id>http://localhost:4000/posts/automating-with-grunt</id>
+      <link href="https://krisha-mehta.github.io//posts/automating-with-grunt/" />
+      <updated>2013-11-12T18:00:00-06:00</updated>
+      <id>https://krisha-mehta.github.io//posts/automating-with-grunt</id>
       <content type="html">&lt;p&gt;&lt;img src=&quot;/img/grunt/logo.png&quot; alt=&quot;Grunt&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I recently came across &lt;a href=&quot;http://gruntjs.com/&quot;&gt;Grunt.js&lt;/a&gt; while working on &lt;a href=&quot;http://blog.sdslabs.co/2013/10/erdos-codebot&quot;&gt;Erdős&lt;/a&gt; at &lt;a href=&quot;//github.com/sdslabs&quot;&gt;SDSLabs&lt;/a&gt;. It is a task-based command line tool similar to Brunch, Maven, Gradle, and I love it! It’s primarily used to automate repetitive tasks in the development workflow and any (lazy) developer would fall in love with it. It takes care of tasks like compilation, minification, concatenation, versioning, cache-busting, linting, unit testing, etc. It isn’t limited to JS-specific tasks either, and it’s fairly easy to leverage the power of Node by using &lt;a href=&quot;http://gruntjs.com/api/grunt.util#grunt.util.spawn&quot;&gt;child processes&lt;/a&gt;. Also, it is well supported by an extremely active plugin development community. There may be other Javascript task runner solutions, but I don’t know of any at the moment that are worth taking a look at. In this post, I’ll go through the setup and a few Grunt tasks that I find really useful.&lt;/p&gt;
@@ -123,15 +123,15 @@
 
 &lt;p&gt;As I’ve mentioned earlier, Grunt uses Node.js and is installed via NPM (Node Package Manager). Once you’ve got those ready, install the Grunt CLI globally.&lt;/p&gt;
 
-&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;npm install &lt;span class=&quot;nt&quot;&gt;-g&lt;/span&gt; grunt-cli
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;npm &lt;span class=&quot;nb&quot;&gt;install&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;-g&lt;/span&gt; grunt-cli
 grunt &lt;span class=&quot;nt&quot;&gt;--version&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;The second command should output your current command line module version. Next, create &lt;code class=&quot;highlighter-rouge&quot;&gt;package.json&lt;/code&gt;, which keeps track of the dependencies we’re using in our project so we don’t have to push the node modules when collaborating with other developers.&lt;/p&gt;
+&lt;p&gt;The second command should output your current command line module version. Next, create &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;package.json&lt;/code&gt;, which keeps track of the dependencies we’re using in our project so we don’t have to push the node modules when collaborating with other developers.&lt;/p&gt;
 
 &lt;p&gt;This is what the project directory looks like which I’ll be referring to throughout this post.&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;my-test-app/
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;my-test-app/
 |--assets/
 |--|--dist/
 |--|--style.css
@@ -145,43 +145,43 @@ grunt &lt;span class=&quot;nt&quot;&gt;--version&lt;/span&gt;
 &lt;h3 id=&quot;packagejson&quot;&gt;package.json&lt;/h3&gt;
 
 &lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Erdos&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;version&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;0.1.0&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;author&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Abhishek Das&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;name&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Erdos&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;version&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;0.1.0&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;author&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Abhishek Das&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
 
-  &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;devDependencies&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;grunt&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;~0.4.0&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;grunt-contrib-cssmin&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;*&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;grunt-contrib-uglify&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;*&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;grunt-hashres&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;*&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;grunt-env&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;*&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;grunt-preprocess&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;*&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-    &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;matchdep&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;*&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;devDependencies&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;grunt&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;~0.4.0&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;grunt-contrib-cssmin&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;*&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;grunt-contrib-uglify&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;*&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;grunt-hashres&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;*&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;grunt-env&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;*&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;grunt-preprocess&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;*&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+    &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;matchdep&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;*&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
   &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
 &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;Run &lt;code class=&quot;highlighter-rouge&quot;&gt;npm install&lt;/code&gt;, and NPM will go fetch these for us and place them in a &lt;code class=&quot;highlighter-rouge&quot;&gt;node_modules&lt;/code&gt; folder (which should ideally be under gitignore).&lt;/p&gt;
+&lt;p&gt;Run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;npm install&lt;/code&gt;, and NPM will go fetch these for us and place them in a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;node_modules&lt;/code&gt; folder (which should ideally be under gitignore).&lt;/p&gt;
 
 &lt;h2 id=&quot;tasks&quot;&gt;Tasks&lt;/h2&gt;
 
-&lt;p&gt;Create &lt;code class=&quot;highlighter-rouge&quot;&gt;gruntfile.js&lt;/code&gt; which defines the workflow and tasks for Grunt to execute. Inside &lt;code class=&quot;highlighter-rouge&quot;&gt;gruntfile.js&lt;/code&gt;, all configuration is done by passing an object literal to &lt;code class=&quot;highlighter-rouge&quot;&gt;grunt.initConfig()&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Create &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gruntfile.js&lt;/code&gt; which defines the workflow and tasks for Grunt to execute. Inside &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gruntfile.js&lt;/code&gt;, all configuration is done by passing an object literal to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;grunt.initConfig()&lt;/code&gt;.&lt;/p&gt;
 
 &lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;module&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;exports&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;grunt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
 
-  &lt;span class=&quot;s2&quot;&gt;&quot;use strict&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;use strict&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
 
   &lt;span class=&quot;cm&quot;&gt;/* Load grunt modules */&lt;/span&gt;
-  &lt;span class=&quot;nx&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;matchdep&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;filterDev&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;grunt-*&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;forEach&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;grunt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;loadNpmTasks&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+  &lt;span class=&quot;nf&quot;&gt;require&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;matchdep&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;filterDev&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;grunt-*&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;forEach&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;grunt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;loadNpmTasks&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
 
-  &lt;span class=&quot;nx&quot;&gt;grunt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;initConfig&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;grunt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;initConfig&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;({&lt;/span&gt;
 
     &lt;span class=&quot;cm&quot;&gt;/* All grunt tasks go here */&lt;/span&gt;
 
   &lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
 
   &lt;span class=&quot;cm&quot;&gt;/* Public grunt tasks - to be called from command line */&lt;/span&gt;
-  &lt;span class=&quot;nx&quot;&gt;grunt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;registerTask&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'default'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'cssmin'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'uglify'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'env:production'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'preprocess'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'hashres'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]);&lt;/span&gt;
+  &lt;span class=&quot;nx&quot;&gt;grunt&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;registerTask&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;default&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;cssmin&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;uglify&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;env:production&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;preprocess&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;hashres&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]);&lt;/span&gt;
 
 &lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -192,13 +192,13 @@ grunt &lt;span class=&quot;nt&quot;&gt;--version&lt;/span&gt;
 
 &lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;cssmin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;nl&quot;&gt;production&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'assets/*.css'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;dest&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'assets/dist/style.css'&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;assets/*.css&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;dest&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;assets/dist/style.css&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;This task can now be executed by calling &lt;code class=&quot;highlighter-rouge&quot;&gt;grunt cssmin:production&lt;/code&gt; on the command line.&lt;/p&gt;
+&lt;p&gt;This task can now be executed by calling &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;grunt cssmin:production&lt;/code&gt; on the command line.&lt;/p&gt;
 
 &lt;h3 id=&quot;uglify-js&quot;&gt;&lt;a href=&quot;https://github.com/gruntjs/grunt-contrib-uglify&quot;&gt;Uglify JS&lt;/a&gt;&lt;/h3&gt;
 
@@ -206,25 +206,25 @@ grunt &lt;span class=&quot;nt&quot;&gt;--version&lt;/span&gt;
 
 &lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;uglify&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;nl&quot;&gt;production&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;files&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-      &lt;span class=&quot;s1&quot;&gt;'assets/dist/main.js'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'assets/*.js'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;files&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+      &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;assets/dist/main.js&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;assets/*.js&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;]&lt;/span&gt;
     &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;This task can now be executed by running &lt;code class=&quot;highlighter-rouge&quot;&gt;grunt uglify:production&lt;/code&gt; from the command line. It will concatenate and uglify &lt;code class=&quot;highlighter-rouge&quot;&gt;jquery.js&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;main.js&lt;/code&gt; in one file.&lt;/p&gt;
+&lt;p&gt;This task can now be executed by running &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;grunt uglify:production&lt;/code&gt; from the command line. It will concatenate and uglify &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jquery.js&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;main.js&lt;/code&gt; in one file.&lt;/p&gt;
 
 &lt;h3 id=&quot;environment-configuration&quot;&gt;&lt;a href=&quot;https://github.com/jsoverson/grunt-env/&quot;&gt;Environment Configuration&lt;/a&gt;&lt;/h3&gt;
 
-&lt;p&gt;This is a grunt task to automate environment configuration for other tasks. It can be used with the grunt-preprocess plugin to build &lt;code class=&quot;highlighter-rouge&quot;&gt;index.html&lt;/code&gt; on-the-fly.&lt;/p&gt;
+&lt;p&gt;This is a grunt task to automate environment configuration for other tasks. It can be used with the grunt-preprocess plugin to build &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;index.html&lt;/code&gt; on-the-fly.&lt;/p&gt;
 
 &lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;env&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;nl&quot;&gt;development&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;NODE_ENV&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'development'&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;NODE_ENV&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;development&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
   &lt;span class=&quot;nx&quot;&gt;production&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;NODE_ENV&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'production'&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;NODE_ENV&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;production&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -235,31 +235,31 @@ grunt &lt;span class=&quot;nt&quot;&gt;--version&lt;/span&gt;
 
 &lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;preprocess&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;nl&quot;&gt;html&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'index.tmpl'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;dest&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'index.html'&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;index.tmpl&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;dest&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;index.html&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;This task can now be executed by calling &lt;code class=&quot;highlighter-rouge&quot;&gt;grunt preprocess&lt;/code&gt; on the command line. Our &lt;code class=&quot;highlighter-rouge&quot;&gt;layout.tmpl&lt;/code&gt; can have logical blocks. This is useful in including analytics only on the production build, throwing in some ascii art, changing static asset paths based on environment etc.&lt;/p&gt;
+&lt;p&gt;This task can now be executed by calling &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;grunt preprocess&lt;/code&gt; on the command line. Our &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;layout.tmpl&lt;/code&gt; can have logical blocks. This is useful in including analytics only on the production build, throwing in some ascii art, changing static asset paths based on environment etc.&lt;/p&gt;
 
 &lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;cp&quot;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;html&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;c&quot;&gt;&amp;lt;!-- @if NODE_ENV = 'production' --&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;c&quot;&gt;&amp;lt;!-- @if NODE_ENV = &apos;production&apos; --&amp;gt;&lt;/span&gt;
   &lt;span class=&quot;c&quot;&gt;&amp;lt;!--
         ,---,.
-    ,'  .' |             ,---,
-  ,---.'   |  __  ,-.  ,---.'|   ,---.
-  |   |   .',' ,'/ /|  |   | :  '   ,'\   .--.--.
-  :   :  |-,'  | |' |  |   | | /   /   | /  /    '
-  :   |  ;/||  |   ,',--.__| |.   ; ,. :|  :  /`./
-  |   :   .''  :  / /   ,'   |'   | |: :|  :  ;_
-  |   |  |-,|  | ' .   '  /  |'   | .; : \  \    `.
-  '   :  ;/|;  : | '   ; |:  ||   :    |  `----.   \
-  |   |    \|  , ; |   | '/  ' \   \  /  /  /`--'  /
-  |   :   .' ---'  |   :    :|  `----'  '--'.     /
-  |   | ,'          \   \  /              `--'---'
-  `----'             `----'
+    ,&apos;  .&apos; |             ,---,
+  ,---.&apos;   |  __  ,-.  ,---.&apos;|   ,---.
+  |   |   .&apos;,&apos; ,&apos;/ /|  |   | :  &apos;   ,&apos;\   .--.--.
+  :   :  |-,&apos;  | |&apos; |  |   | | /   /   | /  /    &apos;
+  :   |  ;/||  |   ,&apos;,--.__| |.   ; ,. :|  :  /`./
+  |   :   .&apos;&apos;  :  / /   ,&apos;   |&apos;   | |: :|  :  ;_
+  |   |  |-,|  | &apos; .   &apos;  /  |&apos;   | .; : \  \    `.
+  &apos;   :  ;/|;  : | &apos;   ; |:  ||   :    |  `----.   \
+  |   |    \|  , ; |   | &apos;/  &apos; \   \  /  /  /`--&apos;  /
+  |   :   .&apos; ---&apos;  |   :    :|  `----&apos;  &apos;--&apos;.     /
+  |   | ,&apos;          \   \  /              `--&apos;---&apos;
+  `----&apos;             `----&apos;
 
   --&amp;gt;&lt;/span&gt;
   &lt;span class=&quot;c&quot;&gt;&amp;lt;!-- @endif --&amp;gt;&lt;/span&gt;
@@ -268,26 +268,26 @@ grunt &lt;span class=&quot;nt&quot;&gt;--version&lt;/span&gt;
 
 &lt;h3 id=&quot;cache-busting&quot;&gt;&lt;a href=&quot;https://github.com/Luismahou/grunt-hashres&quot;&gt;Cache-busting&lt;/a&gt;&lt;/h3&gt;
 
-&lt;p&gt;grunt-hashres is an extremely useful plugin that hashes js and css files and renames the &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;script&amp;gt;&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;link&amp;gt;&lt;/code&gt; declarations that refer to them in my html/php/etc files.&lt;/p&gt;
+&lt;p&gt;grunt-hashres is an extremely useful plugin that hashes js and css files and renames the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;script&amp;gt;&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;link&amp;gt;&lt;/code&gt; declarations that refer to them in my html/php/etc files.&lt;/p&gt;
 
 &lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;hashres&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;nl&quot;&gt;options&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;encoding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'utf8'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;fileNameFormat&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'${name}.${hash}.${ext}'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;renameFiles&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;encoding&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;utf8&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;fileNameFormat&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;${name}.${hash}.${ext}&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;
+    &lt;span class=&quot;na&quot;&gt;renameFiles&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;kc&quot;&gt;true&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;},&lt;/span&gt;
   &lt;span class=&quot;nx&quot;&gt;production&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;nl&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'assets/dist/style.css'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'assets/dist/main.js'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
-    &lt;span class=&quot;nx&quot;&gt;dest&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'index.html'&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;src&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;assets/dist/style.css&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;assets/dist/main.js&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;],&lt;/span&gt;
+    &lt;span class=&quot;nx&quot;&gt;dest&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;index.html&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&apos;&lt;/span&gt;
   &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;This task can now be executed by running &lt;code class=&quot;highlighter-rouge&quot;&gt;grunt hashres:production&lt;/code&gt; from the command line. It would change &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;link rel=&quot;stylesheet&quot; href=&quot;assets/dist/style.css&quot;&amp;gt;&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;link rel=&quot;stylesheet&quot; href=&quot;assets/dist/style.130fdfaa.css&quot;&amp;gt;&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;script src=&quot;assets/dist/main.js&quot;&amp;gt;&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;script src=&quot;assets/dist/main.9c4cc83e.js&quot;&amp;gt;&lt;/code&gt; in &lt;code class=&quot;highlighter-rouge&quot;&gt;index.html&lt;/code&gt;. It would also rename the corresponding CSS &amp;amp; JS files in the &lt;code class=&quot;highlighter-rouge&quot;&gt;assets/dist&lt;/code&gt; directory. This is much better than using a timestamp because the hash only changes when a file has been updated.&lt;/p&gt;
+&lt;p&gt;This task can now be executed by running &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;grunt hashres:production&lt;/code&gt; from the command line. It would change &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;link rel=&quot;stylesheet&quot; href=&quot;assets/dist/style.css&quot;&amp;gt;&lt;/code&gt; to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;link rel=&quot;stylesheet&quot; href=&quot;assets/dist/style.130fdfaa.css&quot;&amp;gt;&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;script src=&quot;assets/dist/main.js&quot;&amp;gt;&lt;/code&gt; to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;script src=&quot;assets/dist/main.9c4cc83e.js&quot;&amp;gt;&lt;/code&gt; in &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;index.html&lt;/code&gt;. It would also rename the corresponding CSS &amp;amp; JS files in the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;assets/dist&lt;/code&gt; directory. This is much better than using a timestamp because the hash only changes when a file has been updated.&lt;/p&gt;
 
 &lt;h2 id=&quot;build&quot;&gt;Build&lt;/h2&gt;
 
-&lt;p&gt;Public grunt tasks defined at the bottom of &lt;code class=&quot;highlighter-rouge&quot;&gt;gruntfile.js&lt;/code&gt; can be called directly from the command line. The &lt;code class=&quot;highlighter-rouge&quot;&gt;default&lt;/code&gt; task is executed by running &lt;code class=&quot;highlighter-rouge&quot;&gt;grunt&lt;/code&gt;. Environment variables should ideally be picked up from the project configuration file. &lt;a href=&quot;https://gist.github.com/abhshkdz/7460904&quot;&gt;Here&lt;/a&gt; is the complete gruntfile for convenience. If everything went right, you should see the following output when you run &lt;code class=&quot;highlighter-rouge&quot;&gt;grunt&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Public grunt tasks defined at the bottom of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gruntfile.js&lt;/code&gt; can be called directly from the command line. The &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;default&lt;/code&gt; task is executed by running &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;grunt&lt;/code&gt;. Environment variables should ideally be picked up from the project configuration file. &lt;a href=&quot;https://gist.github.com/abhshkdz/7460904&quot;&gt;Here&lt;/a&gt; is the complete gruntfile for convenience. If everything went right, you should see the following output when you run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;grunt&lt;/code&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/grunt/output.png&quot; alt=&quot;Output&quot; /&gt;&lt;/p&gt;
 
@@ -297,9 +297,9 @@ grunt &lt;span class=&quot;nt&quot;&gt;--version&lt;/span&gt;
   
     <entry>
       <title>Google India Community Summit</title>
-      <link href="http://localhost:4000/posts/google-india-community-summit/" />
-      <updated>2013-08-05T05:30:00+05:30</updated>
-      <id>http://localhost:4000/posts/google-india-community-summit</id>
+      <link href="https://krisha-mehta.github.io//posts/google-india-community-summit/" />
+      <updated>2013-08-04T19:00:00-05:00</updated>
+      <id>https://krisha-mehta.github.io//posts/google-india-community-summit</id>
       <content type="html">&lt;p&gt;Back in May, Google initiated it’s Google Student Ambassador Program in India. Heads of institutes were notified of this program and asked to recommend potential students. I was fortunate enough to be recommended by Professor SP Gupta (Deputy Director) among 10 other candidates from IIT Roorkee. Next, I had to submit an application explaining my interest in Google products, the program and everything else I had been involved in at any point of my college life. I made it through this round of sieving and within a week had to appear for an interview over phone as the final round of shortlisting. The questions mainly revolved around my technical knowledge of Google products, prior experience in event management and passion for helping the community grow. The interview lasted ~20 minutes but it was undoubtedly one of the most important phone conversations I’ve ever had. I obviously made it through the interview. Obvious because otherwise this post wouldn’t be titled the way it is!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/img/google-india-community-summit/gics-logo.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
@@ -328,9 +328,9 @@ grunt &lt;span class=&quot;nt&quot;&gt;--version&lt;/span&gt;
   
     <entry>
       <title>Summer of Code</title>
-      <link href="http://localhost:4000/posts/summer-of-code/" />
-      <updated>2013-08-01T05:30:00+05:30</updated>
-      <id>http://localhost:4000/posts/summer-of-code</id>
+      <link href="https://krisha-mehta.github.io//posts/summer-of-code/" />
+      <updated>2013-07-31T19:00:00-05:00</updated>
+      <id>https://krisha-mehta.github.io//posts/summer-of-code</id>
       <content type="html">&lt;p&gt;This summer has proved to be a busy one for me. I’ve been working in parallel on two major open-source projects. One is Emory University’s Intensive Care Unit Visualization &amp;amp; Analytics project, for which I was selected as a Google Summer of Code developer, and the other is OWASP’s PHP Security Project. It has been a huge learning experience so far.&lt;/p&gt;
 
 &lt;h2 id=&quot;icu-visualization--analytics&quot;&gt;ICU Visualization &amp;amp; Analytics&lt;/h2&gt;
@@ -356,9 +356,9 @@ grunt &lt;span class=&quot;nt&quot;&gt;--version&lt;/span&gt;
   
     <entry>
       <title>The Setup</title>
-      <link href="http://localhost:4000/posts/the-setup/" />
-      <updated>2013-03-28T05:30:00+05:30</updated>
-      <id>http://localhost:4000/posts/the-setup</id>
+      <link href="https://krisha-mehta.github.io//posts/the-setup/" />
+      <updated>2013-03-27T19:00:00-05:00</updated>
+      <id>https://krisha-mehta.github.io//posts/the-setup</id>
       <content type="html">&lt;h2 id=&quot;who-am-i-and-what-do-i-do&quot;&gt;Who am I, and what do I do?&lt;/h2&gt;
 
 &lt;p&gt;I’m Abhishek Das, a B.Tech. student at IIT Roorkee. I write code, kill mosquitoes and wear many hats. But most of my time at the keyboard is spent producing software. A lot of these are internal projects for SDSLabs (a student group constantly striving to innovate and foster technical activities @IITR) and the rest are on Github. I ♥ open-source.&lt;/p&gt;
