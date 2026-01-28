@@ -563,7 +563,7 @@ My CV is available [here][33].
 [30]: http://www.theverge.com/2016/7/12/12158238/first-click-deep-learning-algorithmic-black-boxes
 [31]: http://iitr.ac.in/
 [32]: https://www.facebook.com/dhruv.batra.1253/posts/1783087161932290
-[33]: https://drive.google.com/file/d/1n2lqmD80GiSHZOyORRe6314eX_Ax3uT3/view?usp=sharing
+[33]: https://drive.google.com/file/d/1JpgylJbeIjaUEZy4sWsH2YXw_eqT8VfY/view?usp=sharing
 [34]: http://aideadlin.es/
 [35]: //github.com/abhshkdz/neural-vqa-attention
 [36]: https://snapresearchfellowship.splashthat.com/
