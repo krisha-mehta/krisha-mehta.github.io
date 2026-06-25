@@ -33,6 +33,8 @@ My CV is available [here][33].
 <a name="/news"></a>
 
 # News
+- [June 2026] Attended the PrivaCI Symposium at UIUC. 
+- [Winter and Spring 2026] Organized the People and Technology Seminar at UChicago.
 - [Oct 2025] TAing DATA 23700: Visualization for Data Science this fall.
 - [Aug 2025] Our paper "[Designing for Disclosure in Data Visualizations][Disclosure]" got accepted at IEEE VIS!
 - [July 2025] Presnted a Poster at the Gordon Research Conferences
