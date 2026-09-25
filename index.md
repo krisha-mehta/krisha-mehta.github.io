@@ -42,18 +42,6 @@ permalink: /
             <span class="news-date">Jul 2025</span>
             <span>Presented a poster at the Gordon Research Conferences.</span>
         </li>
-        <li class="news-item">
-            <span class="news-date">Sept 2023</span>
-            <span>Awarded the Liew Family Graduate Fellowship.</span>
-        </li>
-        <li class="news-item">
-            <span class="news-date">Sept 2023</span>
-            <span>Joined the PhD in CS program at the University of Chicago.</span>
-        </li>
-        <li class="news-item">
-            <span class="news-date">May 2021</span>
-            <span>Graduated from Arizona State University with an MS in Computer Science.</span>
-        </li>
     </ul>
 </section>
 
