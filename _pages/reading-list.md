@@ -7,29 +7,24 @@ permalink: /reading-list/
 <h1 class="page-title">Reading List</h1>
 
 <div class="reading-intro">
-    All of these books are exceptional, and I consider myself lucky to have read them. The ones that truly expanded my thinking at the time are <strong style="color:#4F4086; font-weight:600;">highlighted</strong>.
+    I love reading and try to do it whenever I can. Here is a selected list of books I have read — my favourite ones are <strong style="color:#4F4086; font-weight:600;">highlighted</strong>.
 </div>
-
-<blockquote class="reading-quote">
-    "A reader lives a thousand lives before he dies... The man who never reads lives only one."
-    <cite>— George R.R. Martin</cite>
-</blockquote>
 
 <ul class="book-list">
 
     <li class="book-item highlight">
-        <a href="https://www.goodreads.com/series/45175-harry-potter" target="_blank" class="book-link">The Harry Potter Series</a>
-        <span class="book-author">by J.K. Rowling</span>
+        <a href="https://www.goodreads.com/en/book/show/62069739-when-we-cease-to-understand-the-world" target="_blank" class="book-link">When We Cease to Understand the World</a>
+        <span class="book-author">by Benjamín Labatut</span>
     </li>
 
     <li class="book-item">
-        <a href="https://www.goodreads.com/book/show/437129.The_Kite_Runner" target="_blank" class="book-link">The Kite Runner</a>
-        <span class="book-author">by Khaled Hosseini</span>
+        <a href="https://www.goodreads.com/book/show/63241104-tom-lake" target="_blank" class="book-link">Tom Lake</a>
+        <span class="book-author">by Ann Patchett</span>
     </li>
 
     <li class="book-item highlight">
-        <a href="https://www.goodreads.com/book/show/18007564-the-martian" target="_blank" class="book-link">The Martian</a>
-        <span class="book-author">by Andy Weir</span>
+        <a href="https://www.goodreads.com/en/book/show/56922687-these-precious-days" target="_blank" class="book-link">These Precious Days: Essays</a>
+        <span class="book-author">by Ann Patchett</span>
     </li>
 
     <li class="book-item">
@@ -38,44 +33,43 @@ permalink: /reading-list/
     </li>
 
     <li class="book-item highlight">
-        <a href="https://www.goodreads.com/book/show/2122.The_Fountainhead" target="_blank" class="book-link">The Fountainhead</a>
-        <span class="book-author">by Ayn Rand</span>
-    </li>
-
-    <li class="book-item">
-        <a href="https://www.goodreads.com/book/show/662.Atlas_Shrugged" target="_blank" class="book-link">Atlas Shrugged</a>
-        <span class="book-author">by Ayn Rand</span>
-    </li>
-
-    <li class="book-item">
-        <a href="https://www.goodreads.com/book/show/18050143-zero-to-one" target="_blank" class="book-link">Zero to One</a>
-        <span class="book-author">by Peter Thiel</span>
-    </li>
-
-    <li class="book-item">
-        <a href="https://www.goodreads.com/book/show/8884400-the-most-human-human" target="_blank" class="book-link">The Most Human Human</a>
-        <span class="book-author">by Brian Christian</span>
-        <div class="book-note">A record of Brian Christian's experiences in his quest for the prize of the interlocutor voted to be the human most times in the 2009 Turing Test. He thoroughly explores a deeper question of what our philosophical, biological, neurological, moral, and linguistic traits are that set us apart from our artificial counterparts.</div>
-    </li>
-
-    <li class="book-item">
-        <a href="https://www.goodreads.com/book/show/9717.The_Unbearable_Lightness_of_Being" target="_blank" class="book-link">The Unbearable Lightness of Being</a>
-        <span class="book-author">by Milan Kundera</span>
-    </li>
-
-    <li class="book-item">
-        <a href="https://www.goodreads.com/book/show/33566873-the-four-tendencies" target="_blank" class="book-link">The Four Tendencies</a>
-        <span class="book-author">by Gretchen Rubin</span>
+        <a href="https://www.goodreads.com/en/book/show/40164365-the-friend" target="_blank" class="book-link">The Friend</a>
+        <span class="book-author">by Sigrid Nunez</span>
     </li>
 
     <li class="book-item highlight">
-        <a href="https://www.goodreads.com/book/show/28820444-the-elephant-in-the-brain" target="_blank" class="book-link">The Elephant in the Brain: Hidden Motives in Everyday Life</a>
-        <span class="book-author">by Kevin Simler &amp; Robin Hanson</span>
-        <div class="book-note">By far one of the most (almost depressingly) influential books I've read in a while. Chapters follow a simple framework — begin with observations of usual human activities, describe why people think they do what they do, point out obvious loopholes in how activities don't align with stated goals, and propose an alternative hidden motive that explains behavior better than the publicly stated one.</div>
+        <a href="https://www.goodreads.com/en/book/show/5439.Interpreter_of_Maladies" target="_blank" class="book-link">Interpreter of Maladies</a>
+        <span class="book-author">by Jhumpa Lahiri</span>
+    </li>
+
+    <li class="book-item highlight">
+        <a href="https://www.goodreads.com/book/show/37976541-bad-blood" target="_blank" class="book-link">Bad Blood: Secrets and Lies in a Silicon Valley Startup</a>
+        <span class="book-author">by John Carreyrou</span>
+    </li>
+
+    <li class="book-item">
+        <a href="https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow" target="_blank" class="book-link">Thinking, Fast and Slow</a>
+        <span class="book-author">by Daniel Kahneman</span>
+    </li>
+
+    <li class="book-item">
+        <a href="https://www.goodreads.com/book/show/547573.Everybody_Loves_a_Good_Drought" target="_blank" class="book-link">Everybody Loves a Good Drought</a>
+        <span class="book-author">by Palagummi Sainath</span>
+    </li>
+
+    <li class="book-item">
+        <a href="https://www.goodreads.com/book/show/35631386-the-undoing-project" target="_blank" class="book-link">The Undoing Project: A Friendship That Changed Our Minds</a>
+        <span class="book-author">by Michael Lewis</span>
+    </li>
+
+    <li class="book-item">
+        <a href="https://www.goodreads.com/book/show/223436601-careless-people" target="_blank" class="book-link">Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism</a>
+        <span class="book-author">by Sarah Wynn-Williams</span>
+    </li>
+
+    <li class="book-item">
+        <a href="https://www.goodreads.com/book/show/35959740-circe" target="_blank" class="book-link">Circe</a>
+        <span class="book-author">by Madeline Miller</span>
     </li>
 
 </ul>
-
-<p class="reading-cta">
-    Have a recommendation? <a href="https://twitter.com/KrishaMehta2" target="_blank">Let me know!</a>
-</p>
