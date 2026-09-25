@@ -1,0 +1,633 @@
+/* =========================================
+   Krisha Mehta — Researcher Website
+   ========================================= */
+
+:root {
+    --purple:       #4F4086;
+    --purple-dark:  #3a3065;
+    --gold:         #E2B540;
+    --gold-light:   #f0c95a;
+    --sidebar-w:    270px;
+    --serif:        'Lora', Georgia, 'Times New Roman', serif;
+    --sans:         'Inter', system-ui, -apple-system, sans-serif;
+    --text:         #1c1c2e;
+    --text-mid:     #4a4a5a;
+    --text-light:   #6b6b80;
+    --border:       #e8e8f0;
+    --bg:           #ffffff;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: var(--serif);
+    color: var(--text);
+    background: var(--bg);
+    line-height: 1.75;
+    font-size: 16px;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* =========================================
+   Layout
+   ========================================= */
+
+.site-wrapper {
+    display: flex;
+    min-height: 100vh;
+}
+
+/* =========================================
+   Sidebar
+   ========================================= */
+
+.sidebar {
+    width: var(--sidebar-w);
+    background: var(--purple);
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100vh;
+    overflow-y: auto;
+    z-index: 200;
+    scrollbar-width: thin;
+    scrollbar-color: rgba(255,255,255,0.2) transparent;
+}
+
+.sidebar::-webkit-scrollbar {
+    width: 4px;
+}
+.sidebar::-webkit-scrollbar-thumb {
+    background: rgba(255,255,255,0.2);
+    border-radius: 2px;
+}
+
+.sidebar-inner {
+    padding: 2.5rem 1.6rem 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    min-height: 100%;
+}
+
+/* Profile */
+.profile-section {
+    text-align: center;
+}
+
+.profile-photo {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 0 auto 1.1rem;
+    border: 3px solid var(--gold);
+    display: block;
+}
+
+.sidebar-name {
+    font-family: var(--serif);
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: #ffffff;
+    line-height: 1.3;
+    letter-spacing: 0.01em;
+}
+
+.sidebar-pronouns {
+    font-family: var(--sans);
+    font-size: 0.75rem;
+    color: rgba(255,255,255,0.55);
+    font-style: italic;
+    margin-top: 0.25rem;
+    letter-spacing: 0.03em;
+}
+
+.sidebar-affiliation {
+    font-family: var(--sans);
+    font-size: 0.78rem;
+    color: rgba(255,255,255,0.75);
+    line-height: 1.6;
+    margin-top: 0.6rem;
+}
+
+.sidebar-email {
+    margin-top: 0.5rem;
+}
+
+.sidebar-email a {
+    font-family: var(--sans);
+    font-size: 0.72rem;
+    color: var(--gold);
+    word-break: break-all;
+    transition: opacity 0.15s;
+}
+
+.sidebar-email a:hover {
+    opacity: 0.8;
+    text-decoration: underline;
+}
+
+/* Sidebar links (CV, Scholar, etc.) */
+.sidebar-links {
+    border-top: 1px solid rgba(255,255,255,0.12);
+    padding-top: 1.4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.sidebar-link {
+    font-family: var(--sans);
+    font-size: 0.82rem;
+    color: rgba(255,255,255,0.8);
+    display: flex;
+    align-items: center;
+    gap: 0.55rem;
+    padding: 0.2rem 0.4rem;
+    border-radius: 4px;
+    transition: color 0.15s, background 0.15s;
+}
+
+.sidebar-link i {
+    width: 15px;
+    text-align: center;
+    color: var(--gold);
+    font-size: 0.85em;
+    flex-shrink: 0;
+}
+
+.sidebar-link:hover {
+    color: #ffffff;
+    background: rgba(255,255,255,0.08);
+}
+
+/* Navigation */
+.sidebar-nav {
+    border-top: 1px solid rgba(255,255,255,0.12);
+    padding-top: 1.4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
+    margin-top: auto;
+}
+
+.nav-link {
+    font-family: var(--sans);
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: rgba(255,255,255,0.65);
+    padding: 0.45rem 0.7rem;
+    border-radius: 5px;
+    letter-spacing: 0.025em;
+    transition: color 0.15s, background 0.15s;
+    border-left: 2px solid transparent;
+}
+
+.nav-link:hover {
+    color: #ffffff;
+    background: rgba(255,255,255,0.08);
+}
+
+.nav-link.active {
+    color: var(--gold);
+    border-left-color: var(--gold);
+    background: rgba(226,181,64,0.08);
+}
+
+/* =========================================
+   Main Content
+   ========================================= */
+
+.main-content {
+    margin-left: var(--sidebar-w);
+    flex: 1;
+    padding: 4rem 5.5rem 5rem 5rem;
+    max-width: calc(var(--sidebar-w) + 820px);
+}
+
+/* =========================================
+   Sections
+   ========================================= */
+
+.section {
+    margin-bottom: 4.5rem;
+}
+
+.section-title {
+    font-family: var(--serif);
+    font-size: 1.55rem;
+    font-weight: 600;
+    color: var(--purple);
+    margin-bottom: 1.6rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 2px solid var(--gold);
+    letter-spacing: -0.01em;
+}
+
+/* =========================================
+   About
+   ========================================= */
+
+.about-text p {
+    font-size: 1rem;
+    line-height: 1.85;
+    color: var(--text-mid);
+    margin-bottom: 1rem;
+}
+
+.about-text p:last-child {
+    margin-bottom: 0;
+}
+
+.about-text a {
+    color: var(--purple);
+    border-bottom: 1px solid var(--gold);
+    padding-bottom: 1px;
+    transition: color 0.15s, border-color 0.15s;
+}
+
+.about-text a:hover {
+    color: var(--gold);
+    border-color: var(--gold);
+}
+
+/* =========================================
+   News / What's New
+   ========================================= */
+
+.news-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.news-item {
+    font-family: var(--sans);
+    font-size: 0.9rem;
+    color: var(--text-mid);
+    display: flex;
+    gap: 1.2rem;
+    align-items: baseline;
+    padding: 0.65rem 0;
+    border-bottom: 1px solid var(--border);
+    line-height: 1.5;
+}
+
+.news-item:last-child {
+    border-bottom: none;
+}
+
+.news-date {
+    font-weight: 600;
+    color: var(--purple);
+    white-space: nowrap;
+    font-size: 0.82rem;
+    min-width: 90px;
+    flex-shrink: 0;
+}
+
+.news-item a {
+    color: var(--purple);
+    text-decoration: underline;
+    text-decoration-color: rgba(79,64,134,0.3);
+    text-underline-offset: 2px;
+    transition: color 0.15s;
+}
+
+.news-item a:hover {
+    color: var(--gold);
+}
+
+/* =========================================
+   Publications
+   ========================================= */
+
+.pub-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.publication {
+    padding: 2rem 0;
+    border-bottom: 1px solid var(--border);
+}
+
+.publication:first-child {
+    padding-top: 0;
+}
+
+.publication:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.pub-layout {
+    display: flex;
+    gap: 1.8rem;
+    align-items: flex-start;
+}
+
+.pub-teaser {
+    flex-shrink: 0;
+    width: 190px;
+}
+
+.pub-teaser img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    border: 1px solid var(--border);
+}
+
+.pub-details {
+    flex: 1;
+    min-width: 0;
+}
+
+.pub-title {
+    font-family: var(--serif);
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--text);
+    line-height: 1.45;
+    margin-bottom: 0.45rem;
+}
+
+.pub-authors {
+    font-family: var(--sans);
+    font-size: 0.87rem;
+    color: var(--text-mid);
+    margin-bottom: 0.3rem;
+    line-height: 1.5;
+}
+
+.pub-authors .me {
+    font-weight: 600;
+    color: var(--text);
+}
+
+.pub-venue {
+    font-family: var(--sans);
+    font-size: 0.87rem;
+    color: var(--purple);
+    font-style: italic;
+    margin-bottom: 0.75rem;
+}
+
+.pub-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 0.9rem;
+}
+
+.pub-link {
+    font-family: var(--sans);
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: #ffffff;
+    background: var(--purple);
+    padding: 0.22rem 0.75rem;
+    border-radius: 3px;
+    letter-spacing: 0.02em;
+    transition: background 0.15s;
+}
+
+.pub-link:hover {
+    background: var(--gold);
+    color: #fff;
+}
+
+.pub-abstract {
+    font-family: var(--sans);
+    font-size: 0.87rem;
+    color: var(--text-light);
+    line-height: 1.7;
+    border-left: 2px solid var(--border);
+    padding-left: 0.9rem;
+    margin-top: 0.2rem;
+}
+
+/* =========================================
+   Subpage (Reading List, Photos)
+   ========================================= */
+
+.page-title {
+    font-family: var(--serif);
+    font-size: 2rem;
+    font-weight: 600;
+    color: var(--purple);
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 2px solid var(--gold);
+    letter-spacing: -0.01em;
+}
+
+.page-subtitle {
+    font-family: var(--sans);
+    font-size: 0.9rem;
+    color: var(--text-light);
+    margin-bottom: 2.5rem;
+    font-style: italic;
+}
+
+/* Reading List */
+.reading-intro {
+    font-family: var(--serif);
+    font-size: 0.97rem;
+    color: var(--text-mid);
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+}
+
+.reading-quote {
+    border-left: 3px solid var(--gold);
+    padding: 0.6rem 1.2rem;
+    margin: 1.5rem 0 2rem;
+    font-style: italic;
+    color: var(--text-mid);
+    font-size: 0.95rem;
+    line-height: 1.7;
+}
+
+.reading-quote cite {
+    display: block;
+    font-style: normal;
+    font-family: var(--sans);
+    font-size: 0.82rem;
+    color: var(--text-light);
+    margin-top: 0.4rem;
+}
+
+.book-list {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.book-item {
+    padding: 0.8rem 0;
+    border-bottom: 1px solid var(--border);
+    font-size: 0.95rem;
+    color: var(--text-mid);
+    line-height: 1.6;
+}
+
+.book-item:last-child {
+    border-bottom: none;
+}
+
+.book-item .book-link {
+    color: var(--text);
+    font-weight: 500;
+    text-decoration: underline;
+    text-decoration-color: rgba(0,0,0,0.2);
+    text-underline-offset: 2px;
+    transition: color 0.15s;
+}
+
+.book-item .book-link:hover {
+    color: var(--purple);
+}
+
+.book-item.highlight .book-link {
+    color: var(--purple);
+    font-weight: 600;
+}
+
+.book-author {
+    font-family: var(--sans);
+    font-size: 0.83rem;
+    color: var(--text-light);
+    margin-left: 0.15rem;
+}
+
+.book-note {
+    font-family: var(--sans);
+    font-size: 0.83rem;
+    color: var(--text-light);
+    line-height: 1.6;
+    margin-top: 0.4rem;
+    padding-left: 0.5rem;
+    border-left: 2px solid var(--border);
+}
+
+.reading-cta {
+    font-family: var(--sans);
+    font-size: 0.88rem;
+    color: var(--text-light);
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border);
+}
+
+.reading-cta a {
+    color: var(--purple);
+    text-decoration: underline;
+}
+
+.reading-cta a:hover {
+    color: var(--gold);
+}
+
+/* Photos */
+.photos-placeholder {
+    text-align: center;
+    padding: 5rem 2rem;
+    background: #fafafa;
+    border-radius: 8px;
+    border: 1px dashed var(--border);
+}
+
+.photos-placeholder-icon {
+    font-size: 3rem;
+    color: var(--border);
+    margin-bottom: 1.2rem;
+}
+
+.photos-placeholder p {
+    font-family: var(--sans);
+    font-size: 0.95rem;
+    color: var(--text-light);
+    line-height: 1.7;
+}
+
+/* =========================================
+   Responsive
+   ========================================= */
+
+@media (max-width: 960px) {
+    .main-content {
+        padding: 3rem 3rem 4rem 3.5rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .sidebar {
+        position: relative;
+        width: 100%;
+        height: auto;
+    }
+
+    .site-wrapper {
+        flex-direction: column;
+    }
+
+    .main-content {
+        margin-left: 0;
+        padding: 2.5rem 1.5rem;
+    }
+
+    .pub-layout {
+        flex-direction: column;
+    }
+
+    .pub-teaser {
+        width: 100%;
+        max-width: 280px;
+    }
+
+    .sidebar-inner {
+        gap: 1.5rem;
+        padding: 2rem 1.5rem;
+    }
+
+    .sidebar-nav {
+        flex-direction: row;
+        flex-wrap: wrap;
+        gap: 0.3rem;
+        margin-top: 0;
+    }
+
+    .nav-link {
+        border-left: none;
+        border-bottom: 2px solid transparent;
+    }
+
+    .nav-link.active {
+        border-left: none;
+        border-bottom-color: var(--gold);
+    }
+}

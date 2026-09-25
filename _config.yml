@@ -3,7 +3,7 @@ name: Krisha Mehta
 url: https://krisha-mehta.github.io/
 author:
   name: Krisha Mehta
-  email: krisha1204@gmail.com
-description: Computer science student who likes to learn and read.
+  email: krisha@uchicago.edu
+description: PhD student in Computer Science at the University of Chicago, studying data visualization and uncertainty reasoning.
 permalink: /posts/:title/
 include: ['_pages']
