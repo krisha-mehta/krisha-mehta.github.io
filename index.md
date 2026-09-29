@@ -52,6 +52,48 @@ permalink: /
         <div class="publication">
             <div class="pub-layout">
                 <div class="pub-teaser">
+                    <img src="/img/purrsuasion/teaser.png" alt="Purrsuasion teaser figure">
+                </div>
+                <div class="pub-details">
+                    <div class="pub-title">Investigating Ethical Data Communication with <em>Purrsuasion</em>: An Educational Game about Negotiated Data Disclosure</div>
+                    <div class="pub-authors">
+                        <span class="me">Krisha Mehta</span>, Sami Elahi, Alex Kale
+                    </div>
+                    <div class="pub-venue">Under Submission</div>
+                    <div class="pub-links">
+                        <a href="/papers/purrsuasion.pdf" target="_blank" class="pub-link">PDF</a>
+                    </div>
+                    <div class="pub-abstract">
+                        Ethical dilemmas in visualization design often arise from situational constraints that limit disclosure of source data, yet these conditions remain hard to simulate in teaching and research settings. To address this, we contribute <em>Purrsuasion</em>, an open-source data communication game where participants play the roles of data providers designing visualizations subject to disclosure constraints and data seekers requesting information and awarding a contract. We deploy <em>Purrsuasion</em> in an undergraduate data science class (N = 27), gathering gameplay data to support a mixed-methods analysis of students' communication dynamics, problem solving, and trust formation.
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="publication">
+            <div class="pub-layout">
+                <div class="pub-teaser">
+                    <img src="/img/geospatial/teaser.png" alt="Geospatial uncertainty teaser figure">
+                </div>
+                <div class="pub-details">
+                    <div class="pub-title">Evaluating Uncertainty Visualizations for Geospatial Decision-Making</div>
+                    <div class="pub-authors">
+                        <span class="me">Krisha Mehta</span>, Julia Koschinsky, Alex Kale
+                    </div>
+                    <div class="pub-venue">Under Submission</div>
+                    <div class="pub-links">
+                        <a href="/papers/geospatial.pdf" target="_blank" class="pub-link">PDF</a>
+                    </div>
+                    <div class="pub-abstract">
+                        Choropleth maps are widely used for decision-making in research and policy. Although the data they represent often contain uncertainty, it is rarely visualized because it is difficult to encode alongside estimates and may be hard for viewers to interpret. We contribute a pre-registered, crowdsourced experiment examining how people make resource-allocation decisions across eight uncertainty visualizations, chosen to represent important design dimensions for uncertainty representation. We find a tradeoff between sensitivity to evidence and bias relative to the normative decision criterion, and show how this tradeoff interacts with geospatial factors such as the relative size and number of areal units.
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="publication">
+            <div class="pub-layout">
+                <div class="pub-teaser">
                     <img src="/img/disclosure/Comic.png" alt="Designing for Disclosure teaser figure">
                 </div>
                 <div class="pub-details">
